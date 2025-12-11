@@ -95,22 +95,13 @@ targeting**.
 ## 📉 **Dashboards Included**
 
 ### **Excel Dashboard**
-
--   KPI visuals\
--   Payment distribution\
--   Category-wise delivery analysis
+file:///D:/DA%20Assignment/olistore-%20E-Commerce(project)/Ecommerce_anlysis/dashboard%20images/excel_dashboard.png
 
 ### **Power BI Dashboard**
-
--   Automated refresh\
--   City-wise insights\
--   Drill-down reporting
+file:///D:/DA%20Assignment/olistore-%20E-Commerce(project)/Ecommerce_anlysis/dashboard%20images/pwoerbi_dashbaord.png
 
 ### **Tableau Dashboard**
-
--   Trend visualizations\
--   Review heatmaps\
--   Category performance
+file:///D:/DA%20Assignment/olistore-%20E-Commerce(project)/Ecommerce_anlysis/dashboard%20images/tablue_dashboard.png
 
 ------------------------------------------------------------------------
 
