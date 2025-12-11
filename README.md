@@ -95,13 +95,13 @@ targeting**.
 ## 📉 **Dashboards Included**
 
 ### **Excel Dashboard**
-file:///D:/DA%20Assignment/olistore-%20E-Commerce(project)/Ecommerce_anlysis/dashboard%20images/excel_dashboard.png
+https://raw.githubusercontent.com/PrathmeshGanar/Ecommerce_Analysis_SQL_Excel_PowerBI_Tableau/refs/heads/master/dashboard%20images/excel_dashboard.png
 
 ### **Power BI Dashboard**
-file:///D:/DA%20Assignment/olistore-%20E-Commerce(project)/Ecommerce_anlysis/dashboard%20images/pwoerbi_dashbaord.png
+https://raw.githubusercontent.com/PrathmeshGanar/Ecommerce_Analysis_SQL_Excel_PowerBI_Tableau/refs/heads/master/dashboard%20images/pwoerbi_dashbaord.png
 
 ### **Tableau Dashboard**
-file:///D:/DA%20Assignment/olistore-%20E-Commerce(project)/Ecommerce_anlysis/dashboard%20images/tablue_dashboard.png
+https://raw.githubusercontent.com/PrathmeshGanar/Ecommerce_Analysis_SQL_Excel_PowerBI_Tableau/refs/heads/master/dashboard%20images/tablue_dashboard.png
 
 ------------------------------------------------------------------------
 
