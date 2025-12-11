@@ -95,13 +95,13 @@ targeting**.
 ## 📉 **Dashboards Included**
 
 ### **Excel Dashboard**
-https://raw.githubusercontent.com/PrathmeshGanar/Ecommerce_Analysis_SQL_Excel_PowerBI_Tableau/refs/heads/master/dashboard%20images/excel_dashboard.png
+[Click here to view the dashboard](https://raw.githubusercontent.com/PrathmeshGanar/Ecommerce_Analysis_SQL_Excel_PowerBI_Tableau/refs/heads/master/dashboard%20images/excel_dashboard.png)
 
 ### **Power BI Dashboard**
-https://raw.githubusercontent.com/PrathmeshGanar/Ecommerce_Analysis_SQL_Excel_PowerBI_Tableau/refs/heads/master/dashboard%20images/pwoerbi_dashbaord.png
+[Click here to view the dashboard](https://raw.githubusercontent.com/PrathmeshGanar/Ecommerce_Analysis_SQL_Excel_PowerBI_Tableau/refs/heads/master/dashboard%20images/pwoerbi_dashbaord.png)
 
 ### **Tableau Dashboard**
-https://raw.githubusercontent.com/PrathmeshGanar/Ecommerce_Analysis_SQL_Excel_PowerBI_Tableau/refs/heads/master/dashboard%20images/tablue_dashboard.png
+[Click here to view the dashboard](https://raw.githubusercontent.com/PrathmeshGanar/Ecommerce_Analysis_SQL_Excel_PowerBI_Tableau/refs/heads/master/dashboard%20images/tablue_dashboard.png)
 
 ------------------------------------------------------------------------
 
